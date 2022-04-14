@@ -1,0 +1,29 @@
+body{
+    background-image: url("iron man.jpg");
+
+}
+body{
+    font-family: 'Babylonica', cursive;
+
+}
+p,h3,#fidbak{
+  font-family: 'Beau Rivage', cursive; 
+  background-color: yellow;
+}
+p{
+    font-size: 20px;
+}
+#buttn{
+    font-size: 23px;
+}
+#fidbak{
+    word-spacing:280px;
+    
+}
+.copy_right_footer{
+    bottom:0;
+    position: fixed;
+    width:100%;
+    background-color: rgb(205, 205, 205);
+    text-align: center;
+}
