@@ -20,10 +20,3 @@ p{
     word-spacing:280px;
     
 }
-.copy_right_footer{
-    bottom:0;
-    position: fixed;
-    width:100%;
-    background-color: rgb(205, 205, 205);
-    text-align: center;
-}
